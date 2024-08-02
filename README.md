@@ -13,7 +13,7 @@ The **Student Evaluation System** is a C++ program designed to manage and analyz
 - **Search Student**: Searches for a student by roll number and displays their details.
 - **Generate Statistics**: Calculates and displays class-wide statistics including minimum, maximum, and average marks for quizzes and assignments.
 
-# Compilation Instructions
+## Compilation Instructions
 
 To compile and run the file, follow these instructions:
 
